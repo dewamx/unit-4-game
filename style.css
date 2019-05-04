@@ -1,0 +1,64 @@
+body {
+    background-color: black;
+    color:white;
+}
+#first {
+    background-color: teal;
+    height: 50px;
+    width: 500px;
+}
+#space {
+    height: 50px;
+}
+#second {
+    background-color: teal;
+    height: 500px;
+    width: 500px;
+}
+#space1 {
+    height: 50px;
+}
+#space2 {
+   height: 50px;
+}
+.five {
+    background-color: teal;
+    height: 50px;
+    width: 500px;
+}
+#space4 {
+    height: 50px;
+}
+#six {
+    background-color: teal;
+    height: 50px;
+    width: 500px;
+}
+.number {
+    text-align: right;
+}
+.numbers {
+    text-align: right;
+}
+.random {
+    float: left;
+    font-size: 50px;
+    width: 500px;
+}
+.win {
+    float: right;
+}
+#button-red {
+    height: 50px;
+    width: 50px;
+}
+#six {
+    height: 50px;
+    width: 500px;
+}
+#total {
+    background-color: teal;
+    height: 50px;
+    width: 500px;
+    text-align: center;
+}
